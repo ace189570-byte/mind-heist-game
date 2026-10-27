@@ -1,0 +1,17 @@
+PROJECT TITLE
+Mind Heist: The Secret Vault
+
+SHORT DESCRIPTION
+Trust your team. Question every clue. Crack the vault.
+
+PROJECT DESCRIPTION
+Mind Heist is a real-time multiplayer cyber-heist puzzle game for 2–6 players. Friends join instantly using a shareable room code—no account or installation required. Across three timed security challenges, teammates try to outsmart the vault, vote on answers, and collect fragments of the final access code. In larger groups, a secret Double Agent can send misleading intercepted signals to throw the crew off course. A synchronized final code challenge determines whether the team breaks into the vault or security wins. The game features responsive mobile-friendly screens, live player status, individual scores, a countdown, secret roles, and instant replay.
+
+PUBLIC GAME URL
+[INSERT ACTUAL DEPLOYED HTTPS LINK HERE — DO NOT SUBMIT A LOCALHOST ADDRESS]
+
+TECHNOLOGY
+Node.js, Express, Socket.IO, HTML, CSS, JavaScript.
+
+NOTES
+This file contains submission text, but it is not proof of deployment. You must host and verify the public game URL before submitting.

@@ -1,0 +1,9 @@
+{
+  "name": "mind-heist-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mind Heist - a live browser multiplayer vault game",
+  "scripts": { "start": "node server.js", "check": "node --check server.js && node --check public/game.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.21.2", "socket.io": "^4.8.1" }
+}
